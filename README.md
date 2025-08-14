@@ -1,5 +1,5 @@
 <h1 align="center">Hi there ✨, I'm Sneha!</h1>
-*I'm a AI/ML enthusiast and I like to code in Java and Python. I also like open source softwares.*
+*I'm an AI/ML enthusiast and I like to code in C , Java and Python. I also like open source softwares.*
 <h6 align="center">
 
 ---
