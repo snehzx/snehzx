@@ -13,7 +13,7 @@
 
 <!-- About Me Section -->
 ### 🌸 About Me  
-💗 I'm a 20 year old programmer,interested in AI/ML,Data science<br>
+💗 I'm a 20 year old programmer,interested in AI/ML,Web3<br>
 ✨ Exploring Web development <br>
 🎀 Like to solve DSA Questions <br>
 💌 Learning about hardware engineering,systems engineering,system architecture  
