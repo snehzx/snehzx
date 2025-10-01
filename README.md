@@ -1,5 +1,5 @@
-<h1 align="center">Hi there ✨, I'm Sneha!</h1>
-*I'm an AI/ML enthusiast and I like to code in C , Java and Python. I also like open source softwares.*
+<h1 align="center">Hi there ✨  I'm Sneha!</h1>
+*I'm an AI/ML and Web3 enthusiast and I like to code in C , Java and Python. I also like open source softwares.*
 <h6 align="center">
 
 ---
@@ -13,7 +13,7 @@
 
 <!-- About Me Section -->
 ### 🌸 About Me  
-💗 I'm a 20 year old programmer,interested in AI/ML,Web3<br>
+💗 I'm a 20 year old programmer,interested in AI/ML & Web3<br>
 ✨ Exploring Web development <br>
 🎀 Like to solve DSA Questions <br>
 💌 Learning about hardware engineering,systems engineering,system architecture  
